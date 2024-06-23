@@ -8,8 +8,6 @@
 </p>
 
 > :warning: To run this tool you will need a commercial full-node provider. 
-> :heavy_check_mark: I'm personally using  https://github.com/self-node-official since you won't have any monthly fee, but a one-time fee for the full-node setup (compared to 400$ - 600$ per month of the other services around). 
-> Or you can follow their guides and setup a node by yourself.
 
 #### How does this work?
 The `price scraper` listens for the latest swap made to blockchain, based on the token's liquidity pair reserves you can calculate the tokens prices, the router of the swap and the pair of the tokens.
